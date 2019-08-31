@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-This site is basically what the title says: Stuff Like That Over There--interesting things I see or read or think about that I want to note for perhaps a circle of friends to see.
+This site is basically what the title says: Stuff Like That There--interesting things I see or read or think about that I want to note for perhaps a circle of friends to see.
 
 Subject matter should be expansive: tech (particularly programming), literature, theology, rock climbing.
 
