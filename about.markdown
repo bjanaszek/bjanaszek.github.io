@@ -7,7 +7,7 @@ This site is basically what the title says: Stuff Like That There--interesting t
 
 Subject matter should be expansive: tech (particularly programming), literature, theology, rock climbing.
 
-The site is managed via Jekyll, and deployed on my hosting service.  
+The site is managed via Jekyll, and hosted on my GitHub account.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Tension and Disorganization"
+categories: ["lasch", "tension"]
+---
+From Christopher Lasch's *The True and Only Heaven*:
+
+> The syndicalist movement had to grapple with the dilemma that baffled the Christian church throughout its history, the choice between equally unsatifactory alternative of sectarian withdrawal and institutional rigidification.  What good was religion practiced by a handful of zealots, each claiming his own special revelation and acknowledging obedience only to his inner voice?  But what good was a religion of public rituals and empty formulas, held together by hierarchical discipline?
+> 
+> The point, of course--in politics as in religion--was to hold together these irreconcilable elements in some kind of tension, so that neither obscured the other.  Only a theorist as disorganized as [Georges] Sorel could manage this feat very successfully.  His most obvious weakness--his incapacity for systematic thought--enabled him to live with contradictions that more orderly minds would be tempted to resolve.
