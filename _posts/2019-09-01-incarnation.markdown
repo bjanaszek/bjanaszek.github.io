@@ -1,8 +1,8 @@
---
+---
 layout: "post"
 title: "Incarnation and David Foster Wallace"
 categories: ["DFW", "embodiment"]
---
+---
 From David Foster Wallace's essay on Roger Federer, "[Roger Federer as Religious Experience](https://www.nytimes.com/2006/08/20/sports/playmagazine/20federer-footnotes.html?pagewanted=all#footnote1)":
 
 > Beauty is not the goal of competitive sports, but high-level sports are a prime venue for the expression of human beauty. The relation is roughly that of courage to war.
