@@ -24,11 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   A random smattering of scintillating things.  It could be tech, it
   could be books, it could be theology.  It also could be cat pictures.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://anklebiter.net/stuff" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bjanaszek.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  bjanaszek
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
